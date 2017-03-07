@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+img {
+    width: 100%;
+}
+body {
+    background-image: url("../img/concert.jpg");
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.row {
+    background-color: lightgrey;
+    text-align: center;
+    font-size: 26px;
+}
+.center {
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
